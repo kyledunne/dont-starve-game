@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Waterfall OS Java/libs/jars/lwjgl_util.jar" sourcepath="/Waterfall OS Java/libs/natives/windows">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Waterfall OS Java/libs/javadoc/lwjgl-docs-2.9.0.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Waterfall OS Java/libs/natives/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Waterfall OS Java/libs/jars/lwjgl.jar" sourcepath="/Waterfall OS Java/libs/natives/windows">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Waterfall OS Java/libs/javadoc/lwjgl-docs-2.9.0.zip!/javadoc"/>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="Waterfall OS Java/libs/natives/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/Waterfall OS Java/libs/jars/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="/Waterfall OS Java/libs/jars/slick-util.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="http://www.slick2d.org/javadoc/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
